@@ -1,1 +1,1 @@
-# dynamic_WinApi
+A simple mechanism for dynamically obtaining windows api. It can be used for simple obfuscation, hiding data from the import table, or more convenient use of undeclared api. See the main.cpp file for an example of use.
